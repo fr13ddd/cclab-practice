@@ -1,0 +1,36 @@
+h1 {
+    color: brown;
+    font-style: bold;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+#introduction{
+    font-style: italic;
+    font-size: 20px;
+    color:pink;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+}
+
+li.item{
+    font-weight:bolder;
+}
+
+.content-box{
+    width: 80%;
+    background-color: #f0f0f0;
+    padding: 1px;
+    border:1px solid #ccc;
+
+}
+
+body {
+    font-family: 'Sixtyfour', sans-serif;
+}
+
+
+
